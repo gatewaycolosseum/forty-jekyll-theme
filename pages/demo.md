@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Why Numel is the Best Pokemon Ever
-description: It just is. Deal with it.
-image: assets/images/pic06.jpg
+#description: It just is. Deal with it.
+#image: assets/images/pic06.jpg
 permalink: demo.md
 nav-menu: true
 ---
