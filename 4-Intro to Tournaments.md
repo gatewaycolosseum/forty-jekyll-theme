@@ -2,7 +2,7 @@
 layout: page
 title: Intro to Tournaments
 description: Guide for first-timers
-image: assets/images/Intro to Tournaments.jpg
+image: assets/images/Intro_to_Tournaments.jpg
 permalink: Intro to Tournaments.html
 nav-menu: false
 ---
