@@ -3,7 +3,7 @@ layout: page
 title: Intro to Tournaments
 description: Guide for first-timers
 image: assets/images/Intro to Tournaments.jpg
-permalink: compendium.html
+permalink: Intro to Tournaments.html
 nav-menu: false
 ---
 

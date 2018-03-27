@@ -2,7 +2,7 @@
 layout: page
 title: Compendium
 description: Card rulings and clarification
-image: assets/images/compendium.jpg
+image: assets/images/Compendium.jpg
 permalink: compendium.html
 nav-menu: true
 ---
