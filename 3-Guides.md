@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Compendium
-description: Card rulings and clarification
-image: assets/images/compendium.jpg
-permalink: compendium.html
+title: Guides
+description: Archive of various info
+image: assets/images/pic.jpg
+permalink: guides.html
 nav-menu: true
 ---
 
