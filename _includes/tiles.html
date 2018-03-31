@@ -1,4 +1,13 @@
 <section id="one" class="tiles">
+	<article>
+		<span class="image">
+                        <img src="assets/images/Compendium.jpg" alt="" />
+                </span>
+		<header class="major">
+                        <h3><a href="/compendium.html" class="link">Compendium</a></h3>
+                        <p>Card Rules & Clarifications</p>
+                </header>
+	</article>
 	{% for post in site.posts limit:site.tiles-count %}
 	{% if site.tiles-source == 'posts' %}
         <article>
