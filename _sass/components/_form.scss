@@ -48,7 +48,7 @@
 		@include breakpoint(xsmall) {
 			.field {
 				&.half {
-					width: 35em;
+					width: 100%!important;
 					float: none;
 					padding: 0;
 
