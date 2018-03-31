@@ -1,12 +1,39 @@
 <section id="one" class="tiles">
 	<article>
 		<span class="image">
-                        <img src="assets/images/Compendium.jpg" alt="" />
+                        <img src="assets/images/compendium.jpg" alt="" />
                 </span>
 		<header class="major">
                         <h3><a href="/compendium.html" class="link">Compendium</a></h3>
                         <p>Card Rules & Clarifications</p>
                 </header>
+	</article>
+	<article>
+		<span class="image">
+												<img src="assets/images/gameplay.jpg" alt="" />
+								</span>
+		<header class="major">
+												<h3><a href="/guides/gameplay/library.html" class="link">Gameplay Guides</a></h3>
+												<p>Turn progression & specific details</p>
+								</header>
+	</article>
+	<article>
+		<span class="image">
+												<img src="assets/images/events.jpg" alt="" />
+								</span>
+		<header class="major">
+												<h3><a href="/guides/events/library.html" class="link">Event Guides</a></h3>
+												<p>Preperations & proceedings of tournaments</p>
+								</header>
+	</article>
+	<article>
+		<span class="image">
+												<img src="assets/images/intro_to_tournaments.jpg" alt="" />
+								</span>
+		<header class="major">
+												<h3><a href="/guides/events/intro_to_tournaments.html" class="link">Intro to Tournaments</a></h3>
+												<p>Guide for first-timers</p>
+								</header>
 	</article>
 	{% for post in site.posts limit:site.tiles-count %}
 	{% if site.tiles-source == 'posts' %}
